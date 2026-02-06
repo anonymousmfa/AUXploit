@@ -2,6 +2,7 @@
 
 This repository contains demonstration videos illustrating the attacks evaluated in an anonymous research study. The videos highlight how accessibility gaps, screen reader limitations, and malware-assisted actions can be exploited to achieve silent and concurrent account access.
 
+> **Note:** We intentionally do not release executable artifacts or source code, as this work involves a functional malware implementation that could be misused; instead, we provide demonstration videos, and the paper contains sufficient detail to understand and evaluate the attacks in an ethical and controlled manner.
 ---
 
 ## Concurrent Account Access by Bypassing Passkeys
